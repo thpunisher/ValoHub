@@ -12,6 +12,8 @@ const navItems = [
   { name: "WEAPONS", href: "/weapons" },
   { name: "MAPS", href: "/maps" },
   { name: "ARSENAL", href: "/arsenal" },
+  { name: "PLAYER STATS", href: "/player-stats" },
+  { name: "PREMIER", href: "/premier" },
 ]
 
 export function Navbar() {
